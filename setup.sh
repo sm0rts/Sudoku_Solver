@@ -1,0 +1,1 @@
+module load swdev git/git/2.31.1 python/python/3.12.0 python/pandas_py3.12.0/2.1.1 python/xlsxwriter_py3.11.2/3.1.9
